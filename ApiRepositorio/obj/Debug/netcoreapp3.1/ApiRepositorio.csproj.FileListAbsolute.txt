@@ -1,0 +1,60 @@
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csprojAssemblyReference.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfoInputs.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfo.cs
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.deps.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CopyComplete
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.dev.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.genruntimeconfig.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.deps.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CopyComplete
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.genruntimeconfig.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.deps.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.dev.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CopyComplete
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.genruntimeconfig.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.deps.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.runtimeconfig.dev.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.AssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.csproj.CopyComplete
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\ApiRepositorio\obj\Debug\netcoreapp3.1\ApiRepositorio.genruntimeconfig.cache

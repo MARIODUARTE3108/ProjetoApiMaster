@@ -1,0 +1,240 @@
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.exe
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.deps.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.dev.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CopyComplete
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.Manifest.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.xml
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.genruntimeconfig.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.exe
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.deps.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.xml
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiTarefas.styles.css
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CopyComplete
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.genruntimeconfig.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.exe
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.deps.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.dev.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.Manifest.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.xml
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiTarefas.styles.css
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CopyComplete
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.genruntimeconfig.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.exe
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.deps.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.runtimeconfig.dev.json
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.Manifest.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.xml
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiTarefas.styles.css
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CopyComplete
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\ApiTarefa-master\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.genruntimeconfig.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\ApiRepositorio.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.Manifest.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\staticwebassets\ApiTarefas.StaticWebAssets.xml
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiTarefas.styles.css
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.dll
+C:\Users\Mário Duarte\Downloads\Invocação.do.Mal.3.A.Ordem.do.Demônio.2021.1080p.WEBRip.x264-DUAL.5.1.COMANDO.TO\Nova pasta\Nova pasta\ProjetoMaterAPI\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.pdb
